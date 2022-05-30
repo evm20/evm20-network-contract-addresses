@@ -1,4 +1,4 @@
-# evm20-network-contract-addresses
+# EVM20 General network contracts:
 - wEOS: 0xC28428563B942993BDA88ECbD7215FBFa64F5C1C
 - Multicall: 0xaC8A72D995B6683B3E864A1E9d71cFd84eDbF64f
 - EVM20 Faucet: 0x26c808dd138738a4Cf281d7270881189Ad4c9dF8
